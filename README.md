@@ -1,5 +1,6 @@
 [![Build Status](https://circleci.com/gh/stelligent/deep-security.svg?style=shield)](https://circleci.com/gh/stelligent/deep-security)
 
+
 # AWS Config Rules for Deep Security
 
 A set of AWS Config Rules to help ensure that your AWS deployments are leveraging the protection of Deep Security. These rules help centralize your compliance information in one place, AWS Config.
